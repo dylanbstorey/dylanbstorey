@@ -1,7 +1,7 @@
 # Mockup v1 - Synthwave Terminal
 
 <!-- Synthwave header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:b537f2,100:00fff7&height=180&section=header&text=DYLAN%20STOREY&fontSize=42&fontColor=ff2a6d&fontAlignY=35&animation=fadeIn&desc=I%20build%20tools%20and%20teams&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:b537f2,100:00fff7&height=180&section=header&text=DYLAN%20STOREY&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=I%20build%20tools%20and%20teams&descSize=18&descAlignY=55&descAlign=50"/>
 
 <!-- Typing animation -->
 <p align="center">
