@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Python-b537f2?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-00fff7?style=for-the-badge&logo=kubernetes&logoColor=0d0221" />
   <img src="https://img.shields.io/badge/SQLite-ff6b35?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-b537f2?style=for-the-badge&logo=tauri&logoColor=white" />
 </p>
 
 ---
