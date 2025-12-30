@@ -1,7 +1,7 @@
 # Mockup v1 - Synthwave Terminal
 
 <!-- Synthwave header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4a1a6b,100:b537f2&height=150&section=header&text=DYLAN%20STOREY&fontSize=42&fontColor=ffd700&fontAlignY=40&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1a6b,50:7b2cbf,100:b537f2&height=150&section=header&text=DYLAN%20STOREY&fontSize=42&fontColor=ffd700&fontAlignY=40&animation=fadeIn"/>
 
 <!-- Typing animation -->
 <p align="center">
@@ -48,4 +48,4 @@ Most of my work lives at [colliery-io](https://github.com/colliery-io) — build
 </p>
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b537f2,50:4a1a6b,100:0d0221&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b537f2,50:7b2cbf,100:4a1a6b&height=100&section=footer"/>
