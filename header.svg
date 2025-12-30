@@ -47,13 +47,4 @@
     DYLAN STOREY
   </text>
 
-  <!-- Tagline with subtle glow -->
-  <text x="50%" y="120"
-        font-family="'Segoe UI', Arial, sans-serif"
-        font-size="18"
-        fill="#00fff7"
-        text-anchor="middle"
-        filter="url(#subtleGlow)">
-    Setting foundations. Building for velocity. Craft is speed.
-  </text>
 </svg>
