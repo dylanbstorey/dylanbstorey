@@ -1,7 +1,7 @@
 # Mockup v1 - Synthwave Terminal
 
 <!-- Synthwave header banner -->
-<img width="100%" src="./header.svg" alt="Dylan Storey - I build tools and teams"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4a1a6b,100:b537f2&height=150&section=header&text=DYLAN%20STOREY&fontSize=42&fontColor=ffd700&fontAlignY=40&animation=fadeIn"/>
 
 <!-- Typing animation -->
 <p align="center">
