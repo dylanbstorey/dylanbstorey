@@ -22,7 +22,3 @@ I build tools and teams. Most of my work lives at [colliery-io](https://github.c
 I write a lot of Rust these days. Always happy to collaborate on interesting infrastructure problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylanbstorey/)
-
----
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
