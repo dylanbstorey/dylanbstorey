@@ -21,7 +21,7 @@
 
 ---
 
-Most of my work lives at [colliery-io](https://github.com/colliery-io) — building systems that help developers and AI agents work better.
+Most of my work lives at [colliery-io](https://github.com/colliery-io) — building systems with intention.
 
 ## Active projects
 
